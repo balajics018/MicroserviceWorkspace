@@ -20,10 +20,10 @@ public class Application implements CommandLineRunner {
 	@Autowired
 	CheckinRepository repository;
 	
-	//Added by Ramesh K.
+	//Added by balaji
 	@Autowired
 	CheckinComponent checkinComponent;
-	//end of changes made by Ramesh
+	//end of changes made by Balaji
 	
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
