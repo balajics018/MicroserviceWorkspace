@@ -7,7 +7,7 @@
 	<version>1</version>
 	<packaging>jar</packaging>
 	<name>CheckInCustomers</name>
-	<description>Microservice for CheckIn Customers</description>
+	<description>Microservice for CheckIn Customers</description>git
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
