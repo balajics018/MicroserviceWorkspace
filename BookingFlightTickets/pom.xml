@@ -44,6 +44,13 @@
 			<artifactId>oracle-xe</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		<dependency>
+    <groupId>com.oracle.database.jdbc</groupId>
+    <artifactId>ojdbc8</artifactId>
+    <version>19.8.0.0</version> <!-- Choose the correct version -->
+    <scope>runtime</scope>
+</dependency>
+
 	</dependencies>
 
 	<build>
